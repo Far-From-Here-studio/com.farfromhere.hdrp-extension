@@ -1,0 +1,12 @@
+{
+  "name": "com.farfromhere.hdrp-extension",
+  "displayName": "FFH HDRP Extension",
+  "description": "HDRP graphics resources used for FFHstudio project",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "relatedPackages": {},
+  "repository": {
+    "url": "https://github.com/Far-From-Here-studio/com.farfromhere.hdrp-extension.git",
+    "type": "git"
+  }
+}
