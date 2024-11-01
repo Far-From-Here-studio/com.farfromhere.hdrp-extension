@@ -1,4 +1,4 @@
-Shader "HDRP/TerrainLit"
+Shader "FarFromHere/Terrain/TerrainLit"
 {
     Properties
     {
